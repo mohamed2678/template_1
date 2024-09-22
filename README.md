@@ -1,2 +1,2 @@
 ##links
-https://mohamed2678.github.io/tamplate_1/
+https://mohamed2678.github.io/template_1/
